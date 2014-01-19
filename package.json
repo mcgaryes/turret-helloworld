@@ -1,0 +1,7 @@
+{
+	"name": "turret-helloworld",
+	"description": "Shows a simple example of what a turret template looks like.",
+	"dependencies": {
+		"turret": "0.x.x"
+	}
+}
