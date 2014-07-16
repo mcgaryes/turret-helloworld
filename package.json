@@ -1,7 +1,9 @@
 {
-	"name": "turret-helloworld",
-	"description": "Shows a simple example of what a turret template looks like.",
-	"dependencies": {
-		"turret": "0.x.x"
-	}
+  "name": "turret-helloworld",
+  "description": "Shows a simple example of what a turret template looks like.",
+  "version": "0.1.3",
+  "main": "./schema.js",
+  "dependencies": {
+    "turret": "~0.1.6"
+  }
 }
